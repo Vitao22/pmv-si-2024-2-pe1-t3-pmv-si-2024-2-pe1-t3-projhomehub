@@ -1,4 +1,4 @@
-# Título do Projeto
+# HomeHub
 
 `CURSO: Sistemas de Informação`
 
@@ -6,20 +6,21 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O presente projeto visa desenvolver um sistema de apoio à gestão de equipes híbridas, focando no desenvolvimento do potencial humano individual e coletivo, bem como no alcance de sinergia entre os membros da equipe. Esta proposta surge em resposta às mudanças significativas no ambiente de trabalho contemporâneo, especialmente após os eventos recentes que aceleraram a adoção de modelos de trabalho flexíveis.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Mubarak Nunes Machado
+* Eduardo Dias
+* Giulia Gonzaga
+* Victor Gabriel Sena Valadares
+* Marcos Marques Pereira
+* Maria Eduarda Batista
 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Marco Rodrigo Costa
 
 # Planejamento
 
