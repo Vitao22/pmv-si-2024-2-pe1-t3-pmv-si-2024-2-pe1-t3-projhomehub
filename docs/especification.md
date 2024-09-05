@@ -20,6 +20,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Líder de equipe     | Notificações automáticas enviadas em prazos de entregas se aproximando| Não perder o prazo limite de entrega  | 
+|Líder de equipe     | Acompanhar o progresso de cada membro da equipe de forma clara e em tempo real  | Manter o controle dos processos  | 
+|Usuários do sistema | As tarefas organizadas de maneira visível e de fácil acesso para todos os colaboradores   | Facilitar o desempenho da equipe em conjuto  |   
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
